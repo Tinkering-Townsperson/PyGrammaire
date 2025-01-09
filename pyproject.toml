@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pyfr"
+version = "1.0.0"
+description = "Faisons de la grammaire! Les règles et les exceptions de la langue française, en forme de code!"
+authors = ["AfterNoon PM <h2o.Drop2010+pyfr@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+build = "^1.2.2.post1"
+flake8 = "^7.1.1"
+pytest = "^8.3.4"
+twine = "^6.0.1"
+wheel = "^0.45.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
