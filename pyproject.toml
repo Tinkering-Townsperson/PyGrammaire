@@ -6,7 +6,7 @@ authors = ["AfterNoon PM <h2o.Drop2010+pyfr@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 
 [tool.poetry.group.dev.dependencies]
 build = "^1.2.2.post1"
