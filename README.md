@@ -9,8 +9,8 @@
 ## L'Usage
 
 ```py
-import pyfr.sujet as sujet
-import pyfr.verbes.indicatif as indicatif
+import pygrammaire.sujet as sujet
+import pygrammaire.verbes.indicatif as indicatif
 
 aller = indicatif.Présent("aller")
 
