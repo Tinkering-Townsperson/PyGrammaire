@@ -1,4 +1,4 @@
-from pyfr import __version__
+from pygrammaire import __version__
 
 
 def test_version():

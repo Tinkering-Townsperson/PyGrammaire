@@ -1,6 +1,6 @@
 import re
-from pyfr.verbes import Verbe
-import pyfr.verbes.auxilliaire as aux
+from pygrammaire.verbes import Verbe
+import pygrammaire.verbes.auxilliaire as aux
 
 pattern = r"^(\w+?)(aître|enir|cevoir|ger|cer|oire|ire|oir|er|ir|re)$"
 # TODO: Ajoute tous les terminaisons des verbes

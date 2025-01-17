@@ -1,4 +1,4 @@
-from pyfr.accord import Genre, Nombre
+from pygrammaire.accord import Genre, Nombre
 from typing import Union
 from types import NoneType
 

@@ -1,6 +1,6 @@
-from pyfr.verbes import Verbe
-from pyfr.verbes.infinitif import Infinitif
-from pyfr.sujet import Sujet
+from pygrammaire.verbes import Verbe
+from pygrammaire.verbes.infinitif import Infinitif
+from pygrammaire.sujet import Sujet
 from typing import Union
 
 
